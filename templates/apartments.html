@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Apartments</title>
+    </head>
+    <body>
+        <h1>Apartments</h1>
+        {% if apartments %}
+        <table border="1">
+            <thead>
+                <th>url</th>
+                <th>price</th>
+                <th>floorspace</th>
+                <th>numberOfRooms</th>
+                <th>conditionOfTheRealEstate</th>
+                <th>yearOfConsttruction</th>
+                <th>conveniences</th>
+                <th>energyPerformanceCertificate</th>
+                <th>floor</th>
+                <th>buildingLevels</th>
+                <th>lift</th>
+                <th>interiorHeight</th>
+                <th>heating</th>
+                <th>airCondittioner</th>
+                <th>overhead</th>
+                <th>accessibility</th>
+                <th>bathroomAndToilet</th>
+                <th>orientation</th>
+                <th>view</th>
+                <th>balconySize</th>
+                <th>gardenConnection</th>
+                <th>attic</th>
+                <th>parking</th>
+                <th>parkingSpacePrice</th>
+            </thead>
+            {% for apartment in apartments %}
+            <tr>
+                <td>{{apartment.url}}</td>
+                <td>{{apartment.price}}</td>
+                <td>{{apartment.floorspace}}</td>
+                <td>{{apartment.numberOfRooms}}</td>
+                <td>{{apartment.conditionOfTheRealEstate}}</td>
+                <td>{{apartment.yearOfConsttruction}}</td>
+                <td>{{apartment.conveniences}}</td>
+                <td>{{apartment.energyPerformanceCertificate}}</td>
+                <td>{{apartment.floor}}</td>
+                <td>{{apartment.buildingLevels}}</td>
+                <td>{{apartment.lift}}</td>
+                <td>{{apartment.interiorHeight}}</td>
+                <td>{{apartment.heating}}</td>
+                <td>{{apartment.airCondittioner}}</td>
+                <td>{{apartment.overhead}}</td>
+                <td>{{apartment.accessibility}}</td>
+                <td>{{apartment.bathroomAndToilet}}</td>
+                <td>{{apartment.orientation}}</td>
+                <td>{{apartment.view}}</td>
+                <td>{{apartment.balconySize}}</td>
+                <td>{{apartment.gardenConnection}}</td>
+                <td>{{apartment.attic}}</td>
+                <td>{{apartment.parking}}</td>
+                <td>{{apartment.parkingSpacePrice}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        {% else %}
+        <p>No records found.</p>
+        {% endif %}
+    </body>
+</html>

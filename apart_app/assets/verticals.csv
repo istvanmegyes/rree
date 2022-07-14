@@ -1,0 +1,115 @@
+id;date;property;value;measure
+31900423;2022.05.01 0:17;price;15000000;forint
+31900423;2022.05.01 0:17;floorspace;79;m2
+31900423;2022.05.01 0:17;numberOfRooms;2;szoba
+31900423;2022.05.01 0:17;conditionOfTheRealEstate;nincs megadva;
+31900423;2022.05.01 0:17;yearOfConsttruction;nincs megadva;év
+31900423;2022.05.01 0:17;conveniences;nincs megadva;
+31900423;2022.05.01 0:17;energyPerformanceCertificate;nincs megadva;
+31900423;2022.05.01 0:17;floor;nincs megadva;emelet
+31900423;2022.05.01 0:17;buildingLevels;nincs megadva;szintek
+31900423;2022.05.01 0:17;lift;nincs megadva;
+31900423;2022.05.01 0:17;interiorHeight;nincs megadva;m
+31900423;2022.05.01 0:17;heating;nincs megadva;
+31900423;2022.05.01 0:17;airCondittioner;nincs megadva;
+31900423;2022.05.01 0:17;overhead;nincs megadva;forint
+31900423;2022.05.01 0:17;accessibility;nincs megadva;
+31900423;2022.05.01 0:17;bathroomAndToilet;nincs megadva;
+31900423;2022.05.01 0:17;orientation;nincs megadva;
+31900423;2022.05.01 0:17;view;nincs megadva;
+31900423;2022.05.01 0:17;balconySize;nincs megadva;m2
+31900423;2022.05.01 0:17;gardenConnection;nincs megadva;
+31900423;2022.05.01 0:17;attic;nincs megadva;m2
+31900423;2022.05.01 0:17;parking;nincs megadva;
+31595935;2022.05.01 0:17;price;12000000;forint
+31595935;2022.05.01 0:17;floorspace;74;m2
+31595935;2022.05.01 0:17;numberOfRooms;3;szoba
+31595935;2022.05.01 0:17;conditionOfTheRealEstate;közepes állapotú;
+31595935;2022.05.01 0:17;yearOfConsttruction;nincs megadva;év
+31595935;2022.05.01 0:17;conveniences;nincs megadva;
+31595935;2022.05.01 0:17;energyPerformanceCertificate;nincs megadva;
+31595935;2022.05.01 0:17;floor;3;emelet
+31595935;2022.05.01 0:17;buildingLevels;4;szintek
+31595935;2022.05.01 0:17;lift;nincs;
+31595935;2022.05.01 0:17;interiorHeight;nincs megadva;m
+31595935;2022.05.01 0:17;heating;távfűtés egyedi méréssel;
+31595935;2022.05.01 0:17;airCondittioner;nincs megadva;
+31595935;2022.05.01 0:17;overhead;nincs megadva;forint
+31595935;2022.05.01 0:17;accessibility;nincs megadva;
+31595935;2022.05.01 0:17;bathroomAndToilet;külön helyiségben;
+31595935;2022.05.01 0:17;orientation;nyugat;
+31595935;2022.05.01 0:17;view;nincs megadva;
+31595935;2022.05.01 0:17;balconySize;3 m2;m2
+31595935;2022.05.01 0:17;gardenConnection;nincs megadva;
+31595935;2022.05.01 0:17;attic;nincs megadva;m2
+31595935;2022.05.01 0:17;parking;nem vett részt;
+31595935;2022.05.01 0:17;parkingSpacePrice;nincs megadva;forint
+31497430;2022.05.01 0:17;price;12000000;forint
+31497430;2022.05.01 0:17;floorspace;31;m2
+31497430;2022.05.01 0:17;numberOfRooms;1;szoba
+31497430;2022.05.01 0:17;conditionOfTheRealEstate;jó állapotú;
+31497430;2022.05.01 0:17;yearOfConsttruction;nincs megadva;év
+31497430;2022.05.01 0:17;conveniences;összkomfortos;
+31497430;2022.05.01 0:17;energyPerformanceCertificate;BB;
+31497430;2022.05.01 0:17;floor;4;emelet
+31497430;2022.05.01 0:17;buildingLevels;több mint 10;szintek
+31497430;2022.05.01 0:17;lift;van;
+31497430;2022.05.01 0:17;interiorHeight;3 m-nél alacsonyabb;m
+31497430;2022.05.01 0:17;heating;távfűtés;
+31497430;2022.05.01 0:17;airCondittioner;nincs;
+31497430;2022.05.01 0:17;overhead;39 E Ft;forint
+31497430;2022.05.01 0:17;accessibility;igen;
+31497430;2022.05.01 0:17;bathroomAndToilet;egy helyiségben;
+31497430;2022.05.01 0:17;orientation;nincs megadva;
+31497430;2022.05.01 0:17;view;utcai;
+31497430;2022.05.01 0:17;balconySize;5 m2;m2
+31497430;2022.05.01 0:17;gardenConnection;nem;
+31497430;2022.05.01 0:17;attic;nem tetőtéri;m2
+31497430;2022.05.01 0:17;parking;nincs megadva;
+31497430;2022.05.01 0:17;parkingSpacePrice;utca, közterület - ingyenes;forint
+31328011;2022.05.01 0:17;price;9900000;forint
+31328011;2022.05.01 0:17;floorspace;51;m2
+31328011;2022.05.01 0:17;numberOfRooms;1;szoba
+31328011;2022.05.01 0:17;conditionOfTheRealEstate;felújított;
+31328011;2022.05.01 0:17;yearOfConsttruction;nincs megadva;év
+31328011;2022.05.01 0:17;conveniences;nincs megadva;
+31328011;2022.05.01 0:17;energyPerformanceCertificate;nincs megadva;
+31328011;2022.05.01 0:17;floor;6;emelet
+31328011;2022.05.01 0:17;buildingLevels;10;szintek
+31328011;2022.05.01 0:17;lift;van;
+31328011;2022.05.01 0:17;interiorHeight;nincs megadva;m
+31328011;2022.05.01 0:17;heating;házközponti egyedi méréssel;
+31328011;2022.05.01 0:17;airCondittioner;van;
+31328011;2022.05.01 0:17;overhead;nincs megadva;forint
+31328011;2022.05.01 0:17;accessibility;nincs megadva;
+31328011;2022.05.01 0:17;bathroomAndToilet;nincs megadva;
+31328011;2022.05.01 0:17;orientation;nyugat;
+31328011;2022.05.01 0:17;view;panorámás;
+31328011;2022.05.01 0:17;balconySize;4 m2;m2
+31328011;2022.05.01 0:17;gardenConnection;nincs megadva;
+31328011;2022.05.01 0:17;attic;nincs megadva;m2
+31328011;2022.05.01 0:17;parking;nincs megadva;
+31328011;2022.05.01 0:17;parkingSpacePrice;nincs megadva;forint
+22719537;2022.05.01 0:17;price;13000000;forint
+22719537;2022.05.01 0:17;floorspace;54;m2
+22719537;2022.05.01 0:17;numberOfRooms;1;szoba
+22719537;2022.05.01 0:17;conditionOfTheRealEstate;közepes állapotú;
+22719537;2022.05.01 0:17;yearOfConsttruction;nincs megadva;év
+22719537;2022.05.01 0:17;conveniences;összkomfortos;
+22719537;2022.05.01 0:17;energyPerformanceCertificate;nincs megadva;
+22719537;2022.05.01 0:17;floor;4;emelet
+22719537;2022.05.01 0:17;buildingLevels;4;szintek
+22719537;2022.05.01 0:17;lift;nincs;
+22719537;2022.05.01 0:17;interiorHeight;nincs megadva;m
+22719537;2022.05.01 0:17;heating;házközponti egyedi méréssel;
+22719537;2022.05.01 0:17;airCondittioner;van;
+22719537;2022.05.01 0:17;overhead;nincs megadva;forint
+22719537;2022.05.01 0:17;accessibility;nincs megadva;
+22719537;2022.05.01 0:17;bathroomAndToilet;külön helyiségben;
+22719537;2022.05.01 0:17;orientation;délnyugat;
+22719537;2022.05.01 0:17;view;nincs megadva;
+22719537;2022.05.01 0:17;balconySize;4 m2;m2
+22719537;2022.05.01 0:17;gardenConnection;nincs megadva;
+22719537;2022.05.01 0:17;attic;nincs megadva;m2
+22719537;2022.05.01 0:17;parking;nincs megadva;
+22719537;2022.05.01 0:17;parkingSpacePrice;nincs megadva;forint

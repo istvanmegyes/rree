@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Verticals</title>
+</head>
+
+<body align="center" style="background-color: lightcyan; margin-left: auto; margin-right: auto;">
+
+    <style type="text/css">
+        table {
+            font-size: 10px;
+            text-align: center;
+            border: 1px solid black;
+            border-spacing: 3px;
+            background-color: white;
+            width: 50%;
+            margin: auto;
+            margin-top: 50px;
+        }
+
+        #key_row {
+            height: 30px;
+            font-weight: bold;
+            background-color: lightgreen;
+            outline: 1px solid black;
+        }
+    </style>
+
+    <a href="javascript:history.back()" style="text-decoration: none; text-align: center; font-weight: bold; width: 200px; height: 50px; font-size: 20px; padding: 15px; width: 100px; color: white; border-radius: 5px; background-color: limegreen">BACK</a>
+    {% if verticals %}
+    <table>
+        {% for key, value in verticals.items %}
+        <tr id="key_row">
+            <td style="max-width: 70px; word-wrap: break-word;">#</td>
+            <td style="max-width: 70px; word-wrap: break-word;">id</td>
+            <td style="max-width: 70px; word-wrap: break-word;">date</td>
+            <td style="max-width: 70px; word-wrap: break-word;">key</td>
+            <td style="max-width: 70px; word-wrap: break-word;">value</td>
+            <td style="max-width: 70px; word-wrap: break-word;">measure</td>
+        </tr>
+        <tr>
+            <td style="background-color: whitesmoke; height: 30px;">{{key}}</td>
+            {% for data in value %}
+            <td style="background-color: whitesmoke; height: 30px;">{{data}}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+</body>
+
+</html>
